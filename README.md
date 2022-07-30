@@ -1,4 +1,4 @@
 # raymarching-visualization
 a raymarching visualization created in javascript!
 
-or alternatively here https://raymarching.glitch.me/
+https://raymarching.glitch.me/
